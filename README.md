@@ -1,5 +1,4 @@
 # DSM
-Replication Codes for Paper "Inferring Hub Nodes on Differential Score Matching Graphical Models"
 The repository contains the code implementations accompanying the paper *“Inferring Hub Nodes on Differential Score Matching Graphical Models.”*
 Users are required to change the working directories in the files accordingly.
 The files and their functionalities are summarized below:
